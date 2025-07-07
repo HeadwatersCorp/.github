@@ -25,7 +25,7 @@ Headwaters is a natural resources management consulting firm. We assist clients 
 | `ltpp-data-pipeline` | Workflow automation for Least Tern and Plover productivity reports | [View Repo](put url here) |
 | `phragmites-models` | Mixed-effect regression models of invasive vegetation | [View Repo](put url here) |
 
-> 📝 Browse [All Repositories](put url here) →
+> 📝 Browse [All Repositories](https://github.com/orgs/HeadwatersCorp/repositories) → 
 
 ---
 
