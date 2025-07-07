@@ -1,8 +1,8 @@
-# 🌎 Headwaters Environmental Consulting
+# 🌎 Headwaters Corporation
 
-Welcome to the official GitHub organization for **Headwaters Environmental Consulting**, where science, data, and technology converge to support conservation and environmental management.
+Welcome to the official GitHub organization for **Headwaters Corporation**, where science, data, and technology converge to support conservation and environmental management.
 
-We specialize in applied ecological analysis, species distribution modeling, geospatial workflows, and environmental monitoring — powered by transparent, version-controlled research and open collaboration.
+Headwaters is a natural resources management consulting firm. We assist clients in developing robust solutions in the areas of water resources planning, permitting, and engineering; biological and ecological sciences; habitat and land management. We provide a unique combination of technical expertise and practical experience that produces innovative solutions that link ecosystem function to sustainable land and water management practices.
 
 ---
 
