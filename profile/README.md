@@ -9,7 +9,7 @@ Headwaters is a natural resources management consulting firm. We assist clients 
 ## 🔗 Quick Links
 
 - 🌐 **Company Website**: [Headwaters Corporation](https://www.headwaterscorp.com/)
-- 📊 **Our People**: [About Us](https://www.headwaterscorp.com/people.html)
+- 📊 **Our People**: [Staff](https://www.headwaterscorp.com/people.html)
 - 📁 **Internal Wiki / Docs**: [put url here](put url here)
 - 🛰️ **Live Data Portals**: [put url here](put url here)
 - 🔒 **Private Client Repos**: Authorized access only
