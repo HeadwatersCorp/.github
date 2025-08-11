@@ -1,0 +1,53 @@
+# 📂 [PROJECT NAME]
+
+**Organization:** Headwaters Corporation  
+**Status:** [Active / In Development / Archived]  
+**Last Updated:** YYYY-MM-DD
+
+---
+
+## 📜 Overview
+> One-paragraph summary of the project: what it does, why it exists, and who it’s for. Keep it plain language so anyone in the org can understand.
+
+---
+
+## 🎯 Objectives
+- **Goal 1:** [Short description]
+- **Goal 2:** [Short description]
+- **Goal 3:** [Short description]
+
+---
+
+## 📁 Repository Contents
+| Folder/File | Description |
+|-------------|-------------|
+| `/data` | Raw and processed datasets (if applicable) |
+| `/scripts` | Analysis or processing scripts |
+| `/docs` | Documentation, reports, or guides |
+| `/figures` | Figures, images, and visual outputs |
+| `README.md` | This file |
+| `.gitignore` | Files/folders excluded from version control |
+
+---
+
+## 🗂 Data Management
+- **Primary Data Location:** [e.g., S:\Projects\...\RawData]  
+- **Data Sensitivity:** [Public / Internal / Confidential]  
+- **Data Backup:** [Describe backup location or process]  
+
+---
+
+## 🔧 Setup & Installation
+**Requirements:**
+- Software dependencies (R, Python, GIS, etc.)
+- Required packages/libraries
+- Any environment variables or API keys
+
+**Setup Steps:**
+```bash
+# Example for cloning
+git clone https://github.com/HeadwatersCorp/[REPO-NAME].git
+cd [REPO-NAME]
+
+# Example for installing dependencies
+pip install -r requirements.txt
